@@ -1,4 +1,7 @@
 # Minihomepage
 
-##지금 쓸 거 뭐 없나
 
+##스타일 구성 추가
+
+#네비게이션 추가
+- navigation.md 추가
